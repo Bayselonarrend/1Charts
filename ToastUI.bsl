@@ -21,7 +21,7 @@
 //SOFTWARE.
 
 //!!! Документация с примерами входных данных есть в репозитории
-//https://github.com/Bayselonarrend/1Charts/tree/main
+//https://github.com/Bayselonarrend/1Charts/
 
 #Область ПрограммныйИнтерфейс
 
