@@ -20,6 +20,9 @@
 //OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 //SOFTWARE.
 
+//!!! Документация с примерами входных данных есть в репозитории
+//https://github.com/Bayselonarrend/1Charts/tree/main
+
 #Область ПрограммныйИнтерфейс
 
 Функция ДиаграммаОбластей(Знач Категории, Знач Серии, Знач Параметры = "", Знач ПолныйHTML = Истина) Экспорт
