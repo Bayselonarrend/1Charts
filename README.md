@@ -1,7 +1,7 @@
 ![image](https://github.com/Bayselonarrend/1Charts/assets/105596284/5d5c63d4-05b6-4026-81f9-9f2bb7a0f5f1)
 
 # 1Charts
-**Библиотека использования диаграмм ToastUI для 1С:Предприятие**
+**Библиотека формирования диаграмм ToastUI для 1С:Предприятие**
 
 *ToastUI Charts*: [https://github.com/nhn/tui.chart](https://github.com/nhn/tui.chart)
 
