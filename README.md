@@ -864,5 +864,10 @@ ___
 >https://github.com/nhn/tui.chart?tab=MIT-1-ov-file#readme<br>
 >Copyright (c) 2020 NHN Cloud Corp.<br>
 
+<br>
 
+>![Infostart](https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/infostart.svg)
+>
+>Статья на Инфостарте:<br>
+>[https://infostart.ru/1c/articles/2003116/](https://infostart.ru/1c/articles/2003116/)<br>
 
