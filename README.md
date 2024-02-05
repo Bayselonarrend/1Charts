@@ -3,6 +3,11 @@
 # 1Charts
 **Библиотека формирования диаграмм ToastUI для 1С:Предприятие**
 
+![Версия](https://img.shields.io/badge/Версия_1С-8.3.9-yellow)
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.neocities.org/badges/1/734036313.json)](https://openyellow.notion.site/openyellow/24727888daa641af95514b46bee4d6f2?p=64e85888966a4a29907d14ce716aa597&amp;pm=s)
+
+<br>
+
 *ToastUI Charts*: [https://github.com/nhn/tui.chart](https://github.com/nhn/tui.chart)
 
 Приемущества использования диаграмм ToastUI из 1С:
