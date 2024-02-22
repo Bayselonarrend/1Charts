@@ -175,9 +175,9 @@
 	|window.addEventListener(""load"", (event) => {
 	|
 	|   const Chart   = toastui.Chart;
-	|	const el      = document.getElementById('chart');
+	|   const el      = document.getElementById('chart');
 	|   const data    = %1;
-	|   const options = '%2';
+	|   const options = %2;
 	|
 	|   const chart = Chart." + Вид + "({ el, data, options });
 	|});
